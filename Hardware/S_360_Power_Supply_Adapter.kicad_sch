@@ -1,0 +1,20 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 10817a7c-b9cf-46ba-922a-62072c87721f)
+
+  (paper "A4")
+
+  (title_block
+    (title "S-360-xx power supply adapter")
+    (date "2022-11-25")
+    (comment 1 "(C) Adrien RICCIARDI")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
