@@ -1,6 +1,6 @@
 # S-360-xx power supply adapter
 
-Add 4 10-A 2.5x5.5mm jack outputs and a 240V IEC connector with a switch to S-360-5 and S-360-12 AC/DC power supplies. 
+Add 4 10-A 2.5x5.5mm jack outputs and a 240V IEC connector with a switch to S-360-5 and S-360-12 AC/DC power supplies.
 
 ## Bill of materials
 
@@ -28,3 +28,26 @@ Add 4 10-A 2.5x5.5mm jack outputs and a 240V IEC connector with a switch to S-36
 
 The power supply drawing, found [here](https://fr.aliexpress.com/item/32713332357.html).
 ![Power supply drawing](Resources/Power_Supply_Drawing.png)
+
+## Photo gallery
+
+### PCB
+
+![Naked PCB top](Resources/Naked_PCB_Top.jpg)
+![Naked PCB bottom](Resources/Naked_PCB_Bottom.jpg)
+
+![Assembled PCB top](Resources/Assembled_PCB_Top.jpg)
+![Assembled PCB bottom](Resources/Assembled_PCB_Bottom.jpg)
+
+### Casing plates
+
+![Steel plates](Resources/Casing_Plates.jpg)
+
+### Assembly
+
+![Screwed PCB](Resources/Screwed_PCB.jpg)
+
+### Powering a test bench at BayLibre
+
+![BayLibre 1](Resources/BayLibre_1.jpg)
+![BayLibre 2](Resources/BayLibre_2.jpg)
